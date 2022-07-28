@@ -1,8 +1,11 @@
 # my-restaurant
 
 ## BurgerWay 
+#
+* Home 
 
 ## Over view 
+
 * Dine in - Takeaway
 
 * located in amman
@@ -10,7 +13,7 @@
 * open : 10 : 00 am 
 
 * close : 1 : 00 am
-
+#
 ## Menu
 * Beef Burger ![Beef Burger](beef-burger.jpg) 
 * cheese Burger ![cheese Burger](cheese%20Burger.webp)
