@@ -1,21 +1,20 @@
 # my-restaurant
 
-## BurgerWay 
-#
-* Home 
+## BurgerWay
 
-## Over view 
+## Over view
 
 * Dine in - Takeaway
 
 * located in amman
 
-* open : 10 : 00 am 
+* open : 10 : 00 am
 
 * close : 1 : 00 am
-#
-## Menu
-* Beef Burger ![Beef Burger](beef-burger.jpg) 
+
+## Menu  
+
+* Beef Burger ![Beef Burger](beef-burger.jpg)
 * cheese Burger ![cheese Burger](cheese%20Burger.webp)
 * Beef Bacon ![Beef Bacon](Beef%20Bacon.jpg)
 * Creamy Mashroom ![Creamy Mashroom ](Creamy%20Mashroom.jpg)
@@ -26,6 +25,4 @@
 * Crispy Chicken ![Crispy Chicken](Crispy%20Chicken.webp)
 * Chicken Paradise ![Chicken Paradise](Chicken%20Paradise.jpg)
 
-
-
-## Join us at BurgerWay
+ Join us at BurgerWay
