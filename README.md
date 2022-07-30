@@ -26,3 +26,5 @@
 * Chicken Paradise ![Chicken Paradise](Chicken%20Paradise.jpg)
 
  Join us at BurgerWay
+
+![wirframe](wirframe.png)
